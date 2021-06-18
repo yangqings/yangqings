@@ -1,4 +1,4 @@
-### Hello World 👋
+### 🌱 I’m currently learning ...
 <div align=enter>
     <img src=https://github-readme-stats.vercel.app/api?username=yangqings&show_icons=true></img>
 </div>
